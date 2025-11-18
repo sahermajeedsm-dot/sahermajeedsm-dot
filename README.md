@@ -27,7 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/ebae5046-1724-4351-87f3-8ead48cb1640" />
+" height="30" alt="csharp logo"  />
 </div>
 
 ###
@@ -45,6 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src=<img width="111" height="105" alt="image" src="https://github.com/user-attachments/assets/a67c4889-0c8e-4b8d-bff4-7f4b968afbfe" />
+ />
 
 ###
