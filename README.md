@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is saher from karachi.</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img width="740" height="740" alt="image" src="https://github.com/user-attachments/assets/1e00eedf-a170-4134-bb67-8936323d276e" />
+"  />
 
 ###
 
